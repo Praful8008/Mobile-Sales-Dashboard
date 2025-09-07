@@ -55,4 +55,6 @@ This project is licensed under the MIT License.
 - *Excel  for Data Processing*  
 
 ## Author  
-👨‍💻 Developed by Prachi Paliwal  
+👨‍💻 Developed by Prachi Paliwal
+
+*Gmail*: prachipaliwal745@gmail.com 
