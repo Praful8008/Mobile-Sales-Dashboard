@@ -212,13 +212,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<div align="center">
-  <h3>⭐ If you found this project helpful, please give it a star! ⭐</h3>
-  
-  <img src="https://img.shields.io/github/stars/Praful8008/dashboard?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/Praful8008/dashboard?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/Praful8008/dashboard?style=social" alt="GitHub watchers">
-</div>
 
 ---
 
