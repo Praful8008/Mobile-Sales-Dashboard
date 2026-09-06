@@ -195,13 +195,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
   <img src="https://img.shields.io/badge/Developer-Praful-blue?style=for-the-badge" alt="Developer">
   
-  **Praful Paliwal**
+  **Praful Mhatre**
   
   *Business Intelligence & Data Analytics Specialist*
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-Praful8008-black?style=for-the-badge&logo=github)](https://github.com/Praful8008)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:prachipaliwal745@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Dashboard-green?style=for-the-badge&logo=github)](https://github.com/Praful8008/dashboard)
+
 </div>
 
 ---
