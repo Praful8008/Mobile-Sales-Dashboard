@@ -190,16 +190,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Developer-Praful-blue?style=for-the-badge" alt="Developer">
-  
-  **Praful Mhatre**
-  
-  *Business Intelligence & Data Analytics Specialist*
-
-</div>
 
 ---
 
